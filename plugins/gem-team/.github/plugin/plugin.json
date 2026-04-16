@@ -5,21 +5,21 @@
   "author": {
     "name": "Awesome Copilot Community"
   },
-  "description": "A modular, high-performance multi-agent orchestration framework for complex project execution, feature implementation, and automated verification.",
+  "description": "Multi-agent orchestration framework for spec-driven development and automated verification.",
   "keywords": [
     "multi-agent",
     "orchestration",
     "tdd",
+    "testing",
+    "e2e",
     "devops",
     "security-audit",
-    "dag-planning",
-    "compliance",
+    "code-review",
     "prd",
-    "debugging",
-    "refactoring"
+    "mobile"
   ],
   "license": "MIT",
   "name": "gem-team",
   "repository": "https://github.com/github/awesome-copilot",
-  "version": "1.5.0"
+  "version": "1.6.0"
 }

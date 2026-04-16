@@ -577,8 +577,13 @@ session, _ := client.CreateSession(&copilot.SessionConfig{
     Model: "gpt-4.1",
     MCPServers: map[string]copilot.MCPServerConfig{
         "github": {
+<<<<<<< HEAD
             Type: "http",
             URL:  "https://api.githubcopilot.com/mcp/",
+=======
+            "type": "http",
+            "url": "https://api.githubcopilot.com/mcp/",
+>>>>>>> 9d117370f901e2244316dfd8cf5362435705b658
         },
     },
 })
